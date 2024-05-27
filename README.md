@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirthivasanpn-hash&label=Profile%20views&color=0e75b6&style=flat" alt="kirthivasanpn-hash" /> </p>
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning **Machine learning**
 
-- 👯 I’m looking to collaborate on **JavaScript, React, DBMS and ML**
+- 👯 I’m looking to collaborate on **Data Analytics, Data Engineering or Machine Leanring projects**
 
-- 💬 Ask me about **Java, Javascript, Python3, React, Firebase, DBMS, DL**
+- 💬 Ask me about **Python, SQL, Data Viz, Big Data, Cloud**
 
 - 📫 How to reach me **kirthivasanp@gmail.com**
 
