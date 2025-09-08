@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DevOps, ML based projects**
 
-- 👯 I’m looking to collaborate on **Full-stack projects with a focus on data and M**
+- 👯 I’m looking to collaborate on **Full-stack projects with a focus on data and ML**
 
 - 📫 How to reach me **kirthivasanp@gmail.com**
 
